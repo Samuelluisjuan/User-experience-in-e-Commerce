@@ -1,5 +1,4 @@
-# Proyecto-10-Tripleten
-## Análisis de User Experience 
+# Análisis de User Experience 
 
 Análisis de Conversión y Tamaño Promedio de Pedidos
 
